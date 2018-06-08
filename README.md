@@ -1,2 +1,2 @@
 # blocking
-transmission characters anf files
+transmission characters and files
